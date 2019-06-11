@@ -13,4 +13,4 @@ Dette er en en vanlig slide
 ## Slide med bilde
 Dette er en slide med bilde
 
-![Bilde av en buss](bus.jpeg)
+![Bilde av en buss](res/bus.jpeg)
