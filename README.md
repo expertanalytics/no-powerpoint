@@ -1,4 +1,7 @@
 # yolo.pptx
+Avoid using PowerPoint (or similar) to edit PowerPoint templates.
+See example.pptx for example presentation.
+
 ## Installation
 - Install pandoc
 
