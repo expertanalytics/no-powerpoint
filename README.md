@@ -19,3 +19,8 @@ See example.pptx for an example presentation using the XAL template I created.
 ## use
 - Write a presentation in markdown (see pres.md)
 - `pandoc pres.md -o out.pptx --reference-doc=res/xal.pptx`
+
+## resources
+- [Pandoc manual](https://pandoc.org/MANUAL.html)
+- [PowerPoint MD guide](https://bookdown.org/yihui/rmarkdown/powerpoint-presentation.html)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
