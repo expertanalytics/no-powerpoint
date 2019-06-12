@@ -15,6 +15,7 @@ output: powerpoint_presentation
 - **fet skrift**
 - ~~strek over~~
 - **fet _kombinert_**
+- [link](www.xal.no)
 
 ## Slide med bilde
 
