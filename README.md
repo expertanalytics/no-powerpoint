@@ -1,4 +1,4 @@
-# yolo.pptx
+# no-powerpoint
 ## intro
 Sometimes working for a client means you have to hold a presentation.
 Often, corporations have a PowerPoint template that they want you to use.
