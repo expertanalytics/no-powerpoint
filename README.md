@@ -15,6 +15,9 @@ See example.pptx for an example presentation using the XAL template I created.
 ## installation
 - Install [pandoc](https://pandoc.org/installing.html)
   - macOS: `brew install pandoc`
+  - Linux:
+    - Debian: I think `apt-install` works?
+    - Arch: [AUR](https://www.archlinux.org/packages/community/x86_64/pandoc/) or if you use `yaourt`, `yaourt -S pandoc` should work
 
 ## use
 - Write a presentation in markdown (see pres.md)
